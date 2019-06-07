@@ -1,0 +1,2 @@
+# devops-dictionary
+DevOps terminology
